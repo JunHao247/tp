@@ -51,12 +51,11 @@ ExecutivePro (EP) is a **desktop app for Human Resource managers to manage their
 
 Here are some of the symbols to take note of when going through this user guide:
 
-| Symbol      | Meaning                                                           |
-|-------------|-------------------------------------------------------------------|
-| `code`      | Text relevant to commands or name of a file.                      |
-| [`code`]    | The brackets around the code indicate that the field is optional. | 
-| :bulb:      | Tips for ExecutivePro Users.                                      |
-| :warning:   | Be wary and proceed with caution.                                 |
+| Symbol    | Meaning                                      |
+|-----------|----------------------------------------------|
+| `code`    | Text relevant to commands or name of a file. |
+| :bulb:    | Tips for ExecutivePro Users.                 |
+| :warning: | Be wary and proceed with caution.            |
 
 --------------------------------------------------------------------------------------------------------------------
 
